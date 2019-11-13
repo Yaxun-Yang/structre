@@ -1,0 +1,77 @@
+#include "pcb.h"
+
+int PCB::pid = 0;
+PCB::PCB(bool ifRandom)
+{
+    pid++;
+    this->ifRandom = ifRandom;
+}
+
+
+
+int PCB::getPid()
+{
+    return pid;
+}
+QStirng PCB::getPname()
+{
+    if (ifRandom)
+    {
+        return QString("RANDOM ").append(this->getPid());
+    }
+    else
+    {
+        return QString("SELF_DEFINED").append(this->getPid());
+    }
+}
+
+void PCB::setTimeRequired(int i)
+{
+    timeRequired = i;
+}
+
+int PCB::getTimeRequired()
+{
+    return timeRequired;
+}
+
+void PCB::SubTime()
+{
+    timeRequired--;
+}
+
+void PCB::setPriority(int i)
+{
+    priority = i;
+}
+
+int PCB::getPriority()
+{
+    return priority;
+}
+void PCB::SubPriority()
+{
+    priority--;
+}
+
+void PCB::setStatus(int i)
+{
+    status = i;
+}
+
+QString PCB::getStatus()
+{
+    
+    switch (status) 
+    {
+        case 1:
+         return "READY";
+        case 2:
+         return "RUNNING";
+        case 3:
+         return "WAITING";
+        case 4:
+         return "RESERVE"
+    
+    }
+}

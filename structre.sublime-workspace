@@ -1,0 +1,193 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/file/paper/N3MR/neural_renderer/examples/example1.py",
+		"/D/file/school/web/web resource/mybatis-jpetstore-6.0.0-bundle/mybatis-jpetstore-6.0.0-sources/src/main/java/org/mybatis/jpetstore/persistence/ItemMapper.java",
+		"/D/file/school/web/web resource/JPetStore_JSP/catalog/Product.html",
+		"/D/file/school/web/web resource/JPetStore_JSP/catalog/Item.html",
+		"/D/download/MySQL/Data/my.ini",
+		"/D/file/school/web/web resource/JPetStore_JSP/catalog/Main.html",
+		"/D/file/school/学委/web/web组队（软件1802班).txt",
+		"/D/file/school/学委/web/web组队（软件1802班）.docx",
+		"/D/file/web/mvc_learnning/.idea/encodings.xml",
+		"/D/download/IntelliJ IDEA 2019.2.2/bin/idea.exe.vmoptions",
+		"/D/download/IntelliJ IDEA 2019.2.2/bin/idea64.exe.vmoptions",
+		"/C/Users/87911/AppData/Local/DOSBox/dosbox-0.74.conf",
+		"/D/file/paper/N3MR/neural_renderer/neural_renderer/vertices_to_faces.py",
+		"/D/file/paper/N3MR/neural_renderer/neural_renderer/look.py",
+		"/D/file/paper/N3MR/neural_renderer/neural_renderer/perspective.py",
+		"/D/file/paper/N3MR/neural_renderer/tests/test_look_at.py",
+		"/D/file/paper/N3MR/neural_renderer/neural_renderer/load_obj.py",
+		"/D/file/paper/N3MR/neural_renderer/neural_renderer/get_points_from_angles.py",
+		"/D/file/competition/RoboCup/软件工程1802-阳雅珣-小任务/task1/task1.sh",
+		"/D/file/paper/N3MR/neural_renderer/neural_renderer/mesh.py",
+		"/D/file/paper/N3MR/neural_renderer/neural_renderer/__init__.py",
+		"/D/file/paper/N3MR/neural_renderer/tests/test_get_points_from_angles.py",
+		"/D/download/Tomcat-8.5.45/conf/logging.properties",
+		"/C/Users/87911/AppData/Roaming/CodeBlocks/extra.conf",
+		"/D/download/CodeBlocks/myconf.conf",
+		"/D/download/mysql-8.0.17-winx64/README",
+		"/D/download/mysql-8.0.17-winx64/data/LAPTOP-JOT3RC6H.err",
+		"/D/download/mysql-8.0.17-winx64/my.ini",
+		"/D/file/python/hello.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "structre.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

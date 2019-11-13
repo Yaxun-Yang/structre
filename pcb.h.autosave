@@ -1,0 +1,38 @@
+#ifndef PCB_H
+#define PCB_H
+
+#include <QString>
+class PCB
+{
+    private :
+    
+    static int pid;
+    int timeRequired;
+    int priority;
+    int status;
+    bool ifRandom;
+    
+        
+    public:
+        PCB(bool ifRandom);
+        
+        
+        static int getPid();
+        QStirng getPname();
+        
+        void setTimeRequired(int i);
+        int getTimeRequired();
+        void SubTime();
+        
+        void setPriority(int i);
+        int getPriority();
+        void SubPriority();
+        
+        void setStatus(int i);
+        QString getStatus();
+        
+        
+        
+};
+
+#endif // PCB_H
